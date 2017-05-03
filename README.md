@@ -1,5 +1,5 @@
 # Bamazon
-
+<img src="https://github.com/trenette12/Bamazon/blob/master/Screen%20Shot%202017-05-02%20at%206.49.45%20PM.png">
 An online shop application that offers goods for sale utilizing MySQL, NodeJS and JavaScript.
 
 <h2>Prerequisites<h2>
