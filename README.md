@@ -4,6 +4,5 @@ An online shop application that offers goods for sale utilizing MySQL, NodeJS an
 
 # Prerequisites
 
-<code>npm install mysql;</code>
-<code>npm install inquirer;</code>
+<code>npm install mysql;</code><br><br>npm install inquirer;</code>
 
