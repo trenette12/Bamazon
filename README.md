@@ -1,14 +1,15 @@
+# Bamazon
+
 <img src="https://github.com/trenette12/Bamazon/blob/master/Screen%20Shot%202017-05-03%20at%209.06.05%20PM.png">
 
-# Bamazon
 An online shop application that offers goods for sale utilizing MySQL, NodeJS and JavaScript.
 
 <h2>Table of Contents</h2>
 <ul>
-<li><a href="screenshot">Screenshots</a></li>
+<li><a href="#screenshot">Screenshots</a></li>
 <li><a href="#pre">Prerequisites</a></li>
 <li><a href="#built">Built With</a></li>
-<li><a href="contribute">Contributors</a></li>
+<li><a href="#contribute">Contributors</a></li>
 </ul>
 
 <a name="screenshot"><img src="https://github.com/trenette12/Bamazon/blob/master/Screen%20Shot%202017-05-03%20at%209.04.25%20PM.png"></a>
