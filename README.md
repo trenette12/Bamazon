@@ -16,12 +16,12 @@ An online shop application that offers goods for sale utilizing MySQL, NodeJS an
 <pre><code>npm install mysql;</code></pre>
 <pre><code>npm install inquirer;</code></pre>
 
-<h2>Built With</h2>
+<h2><a name="built">Built With</a></h2>
 <ul>
 <li>MySQL</li>
 <li>NodeJS</li>
 <li>JavaScript</li>
 </ul>
 
-<h2>Contributors</h2>
+<h2><a name="contribute">Contributors</a></h2>
 Tiffany Hyatt
