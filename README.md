@@ -15,3 +15,5 @@ An online shop application that offers goods for sale utilizing MySQL, NodeJS an
 <li>JavaScript</li>
 </ul>
 
+<h2>Contributors</h2>
+Tiffany Hyatt
